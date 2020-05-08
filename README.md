@@ -1,2 +1,5 @@
-# fabrica-cerveza
-Ejercicio de repaso en Java para examen de la Universidad
+# Fábrica de Cerveza (Java)
+
+Ejercicio de repaso en Java para examen de la Universidad Tecnológica Nacional.
+
+(https://raw.githubusercontent.com/gonzalas/fabrica-cerveza/master/uml.jpg)
